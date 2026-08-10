@@ -1,36 +1,33 @@
 # My-Tableau-Projects-repo
 
-# Tableau Dashboard Project
+# Global Health Dashboard | Tableau
 
 ## Overview
-This project was completed as part of a Data Technician Bootcamp and demonstrates the use of Tableau to transform raw data into meaningful visual insights. The dashboard was designed to support data-driven decision-making through interactive visualisations and dynamic user controls.
+This project was completed during a Data Technician Bootcamp and explores global health trends using the Gapminder Health dataset. The objective was to create an interactive Tableau dashboard that enables users to analyse life expectancy, population demographics, and health indicators across countries and continents.
 
-## Key Features
-- Interactive dashboards enabling users to explore data in real time
-- Filters and slicers for customised data views and analysis
-- Calculated fields used to derive additional metrics and enhance reporting
-- Drill-down functionality to investigate trends and performance indicators
-- Responsive dashboard layout for improved user experience
+## Project Features
+- Developed an interactive Tableau dashboard combining multiple visualisations into a single reporting view.
+- Implemented dashboard filters and slicers to allow users to explore data by country, continent, and year.
+- Created calculated fields and percentage calculations to enhance insights and improve data storytelling.
+- Applied sorting, filtering, and Top N analysis techniques to identify key trends and high-performing countries.
+- Published the completed dashboard to Tableau Public.
 
 ## Visualisations Included
-- **Bar Charts** for category and performance comparisons
-- **Line Charts** to identify trends and changes over time
-- **Pie Charts** to display proportional data distributions
-- **Map Visualisations** to analyse geographical patterns and regional performance
-- Additional supporting charts and KPIs to provide a comprehensive overview
+### Bar Chart
+- Average Life Expectancy by Continent
+- Filtered to the most recent year available
+- Sorted to compare regional performance
 
-## Skills Demonstrated
-- Data visualisation and storytelling
-- Dashboard design and user experience principles
-- Tableau calculated fields and data transformations
-- Interactive filtering and parameter controls
-- Trend, geographical, and categorical analysis
-- Data cleaning and preparation for visual analytics
+### Line Chart
+- Life Expectancy trends over time
+- Top 5 countries with the highest average life expectancy
+- Colour-coded for easy comparison
 
-## Tools Used
-- Tableau Desktop
-- Tableau Public
-- Microsoft Excel / CSV data sources
+### Pie Chart
+- Population distribution by gender
+- Dynamic country selection using interactive filters
+- Percentage of total calculations displayed
 
-## Outcome
+### Scatter Plot
+- Comparison of Life 
 The project highlights the ability to create professional, interactive dashboards that communicate key insights clearly and effectively. It demonstrates practical Tableau skills developed during the Data Technician Bootcamp, including data preparation, visualisation design, and interactive reporting.
