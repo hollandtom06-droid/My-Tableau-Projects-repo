@@ -2,6 +2,9 @@
 
 # Global Health Dashboard | Tableau
 
+## My Dashboard
+[Link to my dashboard] https://public.tableau.com/views/Book1-TomH/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Overview
 This project was completed during a Data Technician Bootcamp and explores global health trends using the Gapminder Health dataset. The objective was to create an interactive Tableau dashboard that enables users to analyse life expectancy, population demographics, and health indicators across countries and continents.
 
