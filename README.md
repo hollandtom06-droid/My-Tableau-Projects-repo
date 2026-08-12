@@ -30,7 +30,12 @@ Examples below -
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/91887d8c-07da-443a-b329-10a810ef5270" />
 
-<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/58e717a0-fad1-4e2e-a8c0-c19b9f0b18b0" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/58e717a0-fad1-4e2e-a8c0-c19b9f0b18b0" />
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/792979e0-7872-48f9-8c6e-a1baef4e7b2a" />
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/75edc1c4-5eb2-4321-8a00-281cf5b94f57" />
+
 
 
 
