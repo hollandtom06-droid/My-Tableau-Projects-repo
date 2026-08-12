@@ -6,14 +6,14 @@
 [Link to my dashboard] https://public.tableau.com/views/Book1-TomH/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Overview
-This project was completed as part of a Data Technician Bootcamp using Tableau Public. The objective was to analyse global health data from the Gapminder Health dataset and create an interactive dashboard that highlights key trends in life expectancy, population demographics, and health indicators across countries and continents. 【1-c72a7f】
+This project was completed as part of a Data Technician Bootcamp using Tableau Public. The objective was to analyse global health data from the Gapminder Health dataset and create an interactive dashboard that highlights key trends in life expectancy, population demographics, and health indicators across countries and continents. 
 
 ## Project Goals
 - Analyse global health trends and disparities.
 - Compare life expectancy across continents and countries.
 - Visualise population distribution and demographic patterns.
 - Explore relationships between health metrics such as BMI and life expectancy.
-- Create an interactive dashboard for data-driven decision-making. 【1-c72a7f】
+- Create an interactive dashboard for data-driven decision-making. 
 
 ## Skills Demonstrated
 
@@ -24,7 +24,7 @@ Created a variety of visualisations to communicate insights effectively, includi
 - Pie Charts
 - Scatter Plots
 - Geographic/Map-style visualisations
-- Custom dashboard layouts 【1-c72a7f】
+- Custom dashboard layouts 
 
 Examples below - 
 
