@@ -34,9 +34,11 @@ This chart shows the life expectancy by continent, this chart can be interacted 
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/58e717a0-fad1-4e2e-a8c0-c19b9f0b18b0" />
 
-
+This chart is showing the life expectancy which is currently set to the United States, this can be interacted with and changed by the user.
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/792979e0-7872-48f9-8c6e-a1baef4e7b2a" />
+
+
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/75edc1c4-5eb2-4321-8a00-281cf5b94f57" />
 
