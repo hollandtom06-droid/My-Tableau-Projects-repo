@@ -38,9 +38,11 @@ This chart is showing the life expectancy which is currently set to the United S
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/792979e0-7872-48f9-8c6e-a1baef4e7b2a" />
 
-
+This is a pie chart showing the population by gender between men and women. This can be interacted with on the left side of the screen, changing the location.
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/75edc1c4-5eb2-4321-8a00-281cf5b94f57" />
+
+This is a life expectancy vs BMI chart which is being shown through a scatter plot. Different colors represent different continents which are visible on the left side of the screen. 
 
 
 
