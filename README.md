@@ -84,6 +84,8 @@ A scatter plot exploring the relationship between BMI and life expectancy across
 ### Additional Analysis Visual
 An additional custom visual created to further explore health trends within the dataset. 
 
+#EXPLAINED ABOVE UNDER IMAGES
+
 ## Key Findings
 - Significant differences in life expectancy exist between regions.
 - Health outcomes vary across continents and countries.
