@@ -40,9 +40,9 @@ This chart is showing the life expectancy which is currently set to the United S
 
 This is a pie chart showing the population by gender between men and women. This can be interacted with on the left side of the screen, changing the location.
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/75edc1c4-5eb2-4321-8a00-281cf5b94f57" />
+<img width="1910" height="944" alt="image" src="https://github.com/user-attachments/assets/ec7716c3-fc85-4532-9319-5cea7e5b97ba" />
 
-This is a life expectancy vs BMI chart which is being shown through a scatter plot. Different colors represent different continents which are visible on the left side of the screen. 
+This is the final page of the Tableau book. This shows full global health insights after creating the pages individually.
 
 
 
