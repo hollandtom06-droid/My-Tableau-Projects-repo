@@ -44,20 +44,20 @@ Examples below -
 - Built a single interactive Tableau dashboard combining multiple worksheets.
 - Applied dashboard actions and cross-filtering techniques.
 - Created user-friendly navigation and filtering options.
-- Published the completed dashboard to Tableau Public. 【1-c72a7f】
+- Published the completed dashboard to Tableau Public. 
 
 ### Data Analysis Techniques
 - Used filters to focus on specific years, countries, and continents.
 - Implemented interactive slicers/filter controls for user exploration.
 - Applied sorting and ranking techniques.
 - Analysed trends over time using time-series visualisations.
-- Compared multiple health metrics across regions. 【1-c72a7f】
+- Compared multiple health metrics across regions. 
 
 ### Calculated Fields & Tableau Features
 - Created calculated measures and percentage-of-total calculations.
 - Used colour encoding and labels to improve readability.
 - Applied aggregations and summary statistics.
-- Built dynamic visualisations driven by user selections. 【1-c72a7f】
+- Built dynamic visualisations driven by user selections. 
 
 ## Dashboard Components
 
@@ -74,13 +74,13 @@ An interactive pie chart showing gender-based population distribution for select
 A scatter plot exploring the relationship between BMI and life expectancy across countries.
 
 ### Additional Analysis Visual
-An additional custom visual created to further explore health trends within the dataset. 【1-c72a7f】
+An additional custom visual created to further explore health trends within the dataset. 
 
 ## Key Findings
 - Significant differences in life expectancy exist between regions.
 - Health outcomes vary across continents and countries.
 - Interactive filtering allows users to focus on specific geographical areas and demographics.
-- Visual analytics can support organisations such as the NHS in identifying regions that may require additional healthcare support and investment. 【1-c72a7f】
+- Visual analytics can support organisations such as the NHS in identifying regions that may require additional healthcare support and investment. 
 
 ## Tools & Technologies
 - Tableau Public
